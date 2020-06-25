@@ -14,7 +14,7 @@ signer_name = ''
 signer_email = ''
 
 # The document you wish to send. Path is relative to the root directory of this repo.
-file_name_path = 'loan-form.pdf'
+file_name_path = '*.pdf'
 
 # The url of this web application
 base_url = 'http://localhost:5000'
